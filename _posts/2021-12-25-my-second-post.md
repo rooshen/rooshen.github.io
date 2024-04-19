@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introduction to Python
-subtitle: Each post also has a subtitle
-categories: Python
-tags: [Python, intro, certificate]
+title: Sudesh's Assignment
+subtitle: Click here to make this work
+categories: Assignment
+tags: [Assignment, unit]
 ---
 
 ## Introduction to Python
