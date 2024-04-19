@@ -6,9 +6,11 @@ categories: Assignment
 tags: [Assignment, unit]
 ---
 
-## Introduction to Python
+## Assignment 1 - Group 2
 
-This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
+When you click this button, prepare to be in shock and awe at the amazingness of this assignment!!..
+
+Don't say you weren't warned
 
 
 
